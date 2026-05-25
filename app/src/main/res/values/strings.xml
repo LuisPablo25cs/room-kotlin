@@ -10,4 +10,6 @@
     <string name="delete_message">Esta acción no se puede deshacer.</string>
     <string name="delete_confirm">Eliminar</string>
     <string name="delete_cancel">Cancelar</string>
+    <string name="search_placeholder">Buscar por título</string>
+    <string name="search_button_desc">Buscar</string>
 </resources>
